@@ -100,3 +100,6 @@ A: 6 - Entertainment: Video Games
 Auto Quiz - Dragon 🧠
 Q: When was Marvel Comics founded?
 A: 1939 - Entertainment: Comics
+Auto Quiz - Chinese Girl 🧠
+Q: Which of these countries is not written in its native language?
+A: Slovaško - Geography
