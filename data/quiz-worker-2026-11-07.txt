@@ -64,3 +64,6 @@ A: The House Elf - Entertainment: Books
 Auto Quiz - Kyoto 🧠
 Q: What is the capital of Greenland?
 A: Nuuk - Geography
+Auto Quiz - Osaka 🧠
+Q: How many strings are there on a cello?
+A: 4 - Entertainment: Music
