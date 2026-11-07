@@ -20,3 +20,4 @@ Economics - bwb_S0-DQB-196 - Urban Economics and Public Policy
 Economics - bwb_S0-CBG-084 - studies in world economics
 Politics - bwb_S0-DHY-403 - Christians and Power Politics
 Politics - bwb_T5-BAV-164 - Mass politics: Studies in political sociology
+Law - 1979v03iss01lawjournal - West Indian Law Journal
