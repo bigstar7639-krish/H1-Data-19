@@ -49,3 +49,6 @@ A: Rupee - General Knowledge
 Auto Quiz - Tokyo 🧠
 Q: What is the closest planet to our solar system's sun?
 A: Mercury - General Knowledge
+Auto Quiz - Sakura 🧠
+Q: Who won the UEFA Champions League in 2017?
+A: Real Madrid C.F. - Sports
