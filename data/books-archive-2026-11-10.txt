@@ -38,3 +38,7 @@ Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_Y0-DCL-531 - The New York Times COOK BOOK
 Computer - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
 Computer - computerdatabase0000lawr - A Computer Data Base System for Indexing Research Papers
+Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum
+Kavithai - shodhganga-tamil-10603-292292 - Inraya Kavithai Ilakkiyangalin Varaverppum Vazhum
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
+Thirukkural - thirukkuraltamilprojectmadurai_202003_991_c - Thirukkural ( Tamil) ( Project Madurai)
